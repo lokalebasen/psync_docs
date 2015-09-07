@@ -1,0 +1,46 @@
+[
+  {
+    "id": "EC-29583",
+    "kind": "office",
+    "title": "Big offices with an extraordinary view",
+    "description": "The lease contains 950 m², for the most part is designed as an open office landscape with a very good natural light from the many windows. In addition, the lease contains a reception area, a server room and smaller rooms that can be arranged as offices, meeting rooms and the like. The lease can be divided, so it's possible to rent just the eastern wing.",
+    "address_line_1": "Fjordgade 24, 2. th",
+    "postal_code": "9500",
+    "coordinates": {
+      "latitude": 55.7112585,
+      "longitude": 12.5642073
+    },
+    "area": {
+      "from": 310,
+      "to": 950
+    },
+    "yearly_rent_per_m2": {
+      "from": 1200,
+      "to": 1450
+    },
+    "photos": [
+      "http://i.dailymail.co.uk/i/pix/2013/08/24/article-2401283-1B6F56CB000005DC-376_634x423.jpg",
+      "http://www.constructionweekonline.com/pictures/gallery/InPictures/Top%20Favourite%2050/Top-Fav-Offices-2.jpg"
+    ],
+    "floor_plans": [
+      "http://www.homesbyevergreen.ca/wp-content/gallery/model-b-floor-plan/central-park-floor-plans-8-5x11-2.jpg"
+    ],
+    "prospectus_url": "http://www.st-andrews.ac.uk/media/study/documents/ug/prospectus/ug-prospectus.pdf",
+    "energy_rating": "B",
+    "facilities": ["Elevator", "Air conditioning", "Security alarm"],
+    "primary_contact": {
+      "name": "Anders Andersen",
+      "email": "anders@andersen.dk",
+      "phone": "12345678"
+    }
+  },
+  {
+    "second": "location"
+  },
+  {
+    "third": "location"
+  },
+  {
+    "and": "so on!"
+  }
+]
