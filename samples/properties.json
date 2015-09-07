@@ -1,0 +1,40 @@
+[
+  {
+    "id": "SE-1050356",
+    "category": "investment",
+    "kind": "office",
+    "floor_area": 3943,
+    "lot_area": 0,
+    "price": 137000000,
+    "yearly_operational_cost": 2049619,
+    "address_line_1": "Vimmelskaftet 46-48",
+    "postal_code": "1161",
+    "postal_name": "København K",
+    "coordinates": {
+      "latitude": 55.67867,
+      "longitude": 12.574085
+    },
+    "is_built": true,
+    "year_built": null,
+    "title": "Samlet areal på 3.943 m² sælges i København K",
+    "description": "Ejendommen er en markant hjørneejendom, med særdeles god beliggenhed på\r\nStrøget i København.\r\n\r\nEjendommen består af 5 sammenhængende bygninger,\r\nfordelt på 3 gader, Vimmelskaftet, Skoubogade, samt Skindergade.\r\n\r\nEjendommen som er en blandet ejendom, indeholder detail/cafe i de underste\r\netager og kontor/bolig i den øvrige del af ejendommen.\r\n\r\nLejerne i stueetagen tæller bl.a. Barresso Coffee A/S, ”The Irish Rover”, en\r\nskønhedssalon, samt en frisør.\r\n\r\nEjendommen indeholder pt. 3 tomme\r\nkontorlejemål, samt 1 butikslejemål, beliggende i Skindergade. ",
+    "yearly_rental_income": 7836015,
+    "deposit_and_prepaid_rent": 1418398,
+    "energy_rating": "D",
+    "provider_website_link": "",
+    "return_rate": 0.045,
+    "primary_contact": {
+      "name": "Anders Andersen",
+      "email": "anders@andersen.dk",
+      "phone": "53 35 19 59"
+    },
+    "photos": [
+      "http://i.dailymail.co.uk/i/pix/2013/08/24/article-2401283-1B6F56CB000005DC-376_634x423.jpg",
+      "http://www.constructionweekonline.com/pictures/gallery/InPictures/Top%20Favourite%2050/Top-Fav-Offices-2.jpg"
+    ],
+    "floor_plans": [
+      "http://www.homesbyevergreen.ca/wp-content/gallery/model-b-floor-plan/central-park-floor-plans-8-5x11-2.jpg"
+    ],
+    "prospectuses": ["http://www.st-andrews.ac.uk/media/study/documents/ug/prospectus/ug-prospectus.pdf"]
+  }
+]
