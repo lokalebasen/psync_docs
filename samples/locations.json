@@ -26,6 +26,7 @@
       "http://www.homesbyevergreen.ca/wp-content/gallery/model-b-floor-plan/central-park-floor-plans-8-5x11-2.jpg"
     ],
     "prospectus_url": "http://www.st-andrews.ac.uk/media/study/documents/ug/prospectus/ug-prospectus.pdf",
+    "provider_website_url": "http://www.example.com/foo/bar.html",
     "energy_rating": "B",
     "facilities": ["Elevator", "Air conditioning", "Security alarm"],
     "primary_contact": {
@@ -33,14 +34,5 @@
       "email": "anders@andersen.dk",
       "phone": "12345678"
     }
-  },
-  {
-    "second": "location"
-  },
-  {
-    "third": "location"
-  },
-  {
-    "and": "so on!"
   }
 ]
