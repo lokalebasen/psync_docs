@@ -18,6 +18,14 @@
       "from": 1200,
       "to": 1450
     },
+    "workstations_count": {
+      "from": 1,
+      "to": 9
+    },
+    "workstation_cost_per_month": {
+        "from": 1300,
+        "to": 9300
+    },
     "photos": [
       "http://i.dailymail.co.uk/i/pix/2013/08/24/article-2401283-1B6F56CB000005DC-376_634x423.jpg",
       "http://www.constructionweekonline.com/pictures/gallery/InPictures/Top%20Favourite%2050/Top-Fav-Offices-2.jpg"
